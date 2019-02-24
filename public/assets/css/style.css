@@ -1,0 +1,13 @@
+body {
+  background: url("../images/burgerBackground3.png");
+  height: 100px;
+  width: 100%;
+}
+
+img {
+  height: 400px;
+  width: 100%;
+}
+.devour{
+  margin-left: 2%;
+}
