@@ -11,3 +11,7 @@ img {
 .devour{
   margin-left: 2%;
 }
+
+.bg-warning {
+  background-color: #ff8b07!important;
+}
